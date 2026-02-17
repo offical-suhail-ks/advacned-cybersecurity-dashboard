@@ -63,7 +63,7 @@ newgrp docker
 ### Step 2: Navigate to Backend Directory
 
 ```bash
-cd C:\Users\mrc03\Desktop\advacned-cyber\backend
+cd C:\Users\pc\Desktop\advacned-cyber\backend
 ```
 
 ### Step 3: Configure Environment Variables
